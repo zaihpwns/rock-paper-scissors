@@ -53,7 +53,7 @@ h1 {
 }
 
 #weatherLink {
-    color: rgba(0, 38, 255, 0.815);
+    color: rgb(0, 38, 255, 0.815);
     position: fixed;
     bottom: 0px;
     height: 30px;

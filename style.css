@@ -52,3 +52,11 @@ h1 {
     color: hsl(0, 100%, 40%);
 }
 
+#weatherLink {
+    color: rgb(4, 0, 255);
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+ }
+
